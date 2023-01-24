@@ -61,6 +61,23 @@ p{
 .bg-legal{
     background: #B68C5A;
 }
+/* Footer Section */
+.boxes input{
+    height: 50px;
+    border: none;
+    margin-top: 5px;
+}
+.boxes button{
+    height: 50px;
+    
+   
+    
+}
+.fa-paper-plane{
+    height: 40px;
+    width: 40px;
+   
+}
 
 @media only screen and (max-width: 767px) {
     .carousel-caption{
